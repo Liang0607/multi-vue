@@ -1,4 +1,4 @@
-# bjvito
+# multi-vue
 
 > A Vue.js project
 
